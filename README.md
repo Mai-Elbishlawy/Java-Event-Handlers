@@ -47,6 +47,7 @@ This project is a simple GUI application built using **Java Swing** that demonst
 ```
 events/
  └── event.java
+ └── Main.java
 Images/
  ├── red.png
  └── green.png
