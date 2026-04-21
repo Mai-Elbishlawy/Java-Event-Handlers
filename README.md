@@ -64,7 +64,7 @@ Images/
 
 ## 📸 Preview
 <p align="center">
-  <img src="Run1.png" width="300"/>
+  <img src="Images/Run1.png" width="300"/>
 </p>
 
 ---
