@@ -20,7 +20,9 @@ This project is a simple GUI application built using **Java Swing** that demonst
 - 🔘 Enable / Disable text field using Radio Buttons  
 - 🖱️ Detect selected text length  
 - ⌨️ Move label using arrow keys  
-- 💾 Save button with confirmation message  
+- 💾 Save button with confirmation message
+
+---
 
 ## 🧩 Components Explanation
 
