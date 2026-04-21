@@ -62,7 +62,7 @@ Images/
 
 ---
 
-## 📸 Screenshots
+## 📸 Preview
 <p align="center">
   <img src="run1.png" width="300"/>
 </p>
